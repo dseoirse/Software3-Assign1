@@ -3,11 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gradleproject1;
+package gradleprojectTest;
 
 import gradleproject1.Student;
 import gradleproject1.CourseProg;
+import gradleproject1.CourseProg;
 import gradleproject1.Module;
+import gradleproject1.Module;
+import gradleproject1.Student;
 import java.util.ArrayList;
 import org.junit.After;
 import org.junit.AfterClass;
