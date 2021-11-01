@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gradleproject2;
+package gradleproject1;
 
 import gradleproject1.Student;
 import gradleproject1.CourseProg;
